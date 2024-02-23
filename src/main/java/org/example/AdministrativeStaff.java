@@ -1,6 +1,7 @@
 package org.example;
 
-public class AdministrativeStaff implements KurulToplayici {
+public class AdministrativeStaff extends Staff
+        implements KurulToplayici {
     public void DersSaatleriniBelirle() {
 
     }
