@@ -1,5 +1,5 @@
 package org.example;
 
-public interface Researcher {
+public interface ResearcherService {
     void ArastirmaOnerisiVer();
 }

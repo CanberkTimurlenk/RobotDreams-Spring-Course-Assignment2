@@ -1,5 +1,5 @@
 package org.example;
 
-public interface KurulToplayici {
+public interface KurulToplayiciService {
     void KuruluTopla();
 }
